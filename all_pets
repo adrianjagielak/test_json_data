@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Meowsy",
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Barky",
+    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Purrpaws",
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+  }
+]
