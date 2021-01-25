@@ -1,0 +1,11 @@
+
+  {
+    "id": 2,
+    "name": "Barky",
+    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  }
