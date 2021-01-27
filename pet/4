@@ -2,7 +2,7 @@
   {
     "id": 4,
     "name": "Purrpaws",
-    "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
     "species" : "cat",
     "foods": {
       "likes": ["mice"],
