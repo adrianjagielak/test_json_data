@@ -1,7 +1,7 @@
 {
     "id": 1,
     "name": "Meowsy",
-    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg",
     "species" : "cat",
     "foods": {
       "likes": ["tuna", "catnip"],
