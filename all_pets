@@ -2,16 +2,22 @@
   {
     "id": 1,
     "name": "Meowsy",
-    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg"
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-1.jpg",
+     "description": "Maine Coon cats are known for their intelligence and playfulness, as well as their size. One of the largest breeds of domestic cats, they are lovingly referreds."
+
   },
   {
     "id": 2,
     "name": "Barky",
-    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg"
+    "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
+     "description": "Maine Coon cats are known for their intelligence and playfulness, as well as their size. One of the largest breeds of domestic cats, they are lovingly referreds."
+
   },
   {
     "id": 4,
     "name": "Purrpaws",
-    "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+    "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+     "description": "Maine Coon cats are known for their intelligence and playfulness, as well as their size. One of the largest breeds of domestic cats, they are lovingly referreds."
+
   }
 ]
