@@ -6,7 +6,7 @@
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
-    }
+    },
     "city": "Chicago",
     "distance": "1.2 km",
     "age": "4 months",
