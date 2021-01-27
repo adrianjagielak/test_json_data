@@ -7,5 +7,12 @@
     "foods": {
       "likes": ["bones", "carrots"],
       "dislikes": ["tuna"]
-    }
+    },
+    "city": "Chicago",
+    "distance": "1.2 km",
+    "age": "4 months",
+    "color": "Grey",
+    "weight": "11 Kg",
+    "description": "Maine Coon cats are known for their intelligence and playfulness, as well as their size. One of the largest breeds of domestic cats, they are lovingly referreds."
+
   }
