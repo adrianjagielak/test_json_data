@@ -10,14 +10,14 @@
     "id": 2,
     "name": "Barky",
     "photo": "https://learnwebcode.github.io/json-example/images/dog-1.jpg",
-     "description": "Maine Coon cats are known for their intelligence and playfulness, as well as their size. One of the largest breeds of domestic cats, they are lovingly referreds."
+     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sagittis ac felis eu placerat. Fusce lorem sapien, iaculis nec luctus eu, porta nec eros. Vestibulum feugiat aliquet dui, sollicitudin egestas quam gravida sed. Nam eros tellus, commodo ac commodo non, convallis a eros. Nam mi turpis, semper non mollis vitae, mollis a orci. Mauris vitae aliquam est, in venenatis lorem. Cras metus metus, posuere vel ornare ac, hendrerit sit amet augue."
 
   },
   {
     "id": 4,
     "name": "Purrpaws",
     "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
-     "description": "Maine Coon cats are known for their intelligence and playfulness, as well as their size. One of the largest breeds of domestic cats, they are lovingly referreds."
+     "description": "Vestibulum non efficitur dolor, nec maximus ligula. Nulla non eros ac orci sagittis semper et posuere nunc. Fusce velit magna, maximus in lorem quis, ultricies suscipit metus. Aenean sed mauris ipsum. Curabitur sit amet nibh massa. Aenean id vehicula lacus, non eleifend purus. Donec in quam nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque dolor ante, convallis faucibus tellus at, porta luctus purus. Quisque luctus egestas mauris et ultricies."
 
   }
 ]
